@@ -1,5 +1,6 @@
 .arsl {
-background-color: aquamarine; 
-size: 6cm;
-
+    background-color: blue;
+    border: 6px dotted yellow;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: xx-large;
 }
